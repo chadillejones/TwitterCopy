@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://im6.ezgif.com/tmp/ezgif-6-091310331bf8.gif' title='Like and retweets' width='' alt='Video Walkthrough' />
+<img src='https://im3.ezgif.com/tmp/ezgif-3-53ac2fe82a6a.gif' title='Compose Tweet' width='' alt='Video Walkthrough' />
 <img src='https://im6.ezgif.com/tmp/ezgif-6-091310331bf8.gif' title='Like and retweets' width='' alt='Video Walkthrough' />
 
 # Project 3 - *Twitter Copy*

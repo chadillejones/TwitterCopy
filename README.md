@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: https://imgur.com/a/Nvq4yQV
 
 
 <img src='https://im3.ezgif.com/tmp/ezgif-3-53ac2fe82a6a.gif' title='Compose Tweet' width='' alt='Video Walkthrough' />
